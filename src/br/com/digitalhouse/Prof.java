@@ -26,7 +26,7 @@ public class Prof implements GerarNumero{
 
     @Override
     public int gerarnumero(int codigo) {
-       codigo = rd + 1;
-       return codigo;
+        codigo = rd + 1;
+        return codigo;
     }
 }
